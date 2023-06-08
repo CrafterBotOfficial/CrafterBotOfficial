@@ -12,7 +12,4 @@ I am a young developer from the United States of America, who is interested in c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=crafterbotofficial&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crafterbotofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=crafterbotofficial&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
