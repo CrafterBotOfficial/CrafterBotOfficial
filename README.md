@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a young developer from the United States of America, who is interested in creating mods/plugins for Unity games.
+I am a young programmer from the United States of America, who is interested in creating mods/plugins for Unity games.
 
 
 ## 🌐 Socials:
